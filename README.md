@@ -43,7 +43,7 @@ In 2018 DQ went down 63%
 
 ![image](https://github.com/Raellenalos/Stock-analyis/blob/main/Resources/All%20Stocks%202017.png)
 
-![image](https://github.com/Raellenalos/Stock-analyis/blob/main/Resources/All%20Stocks%202017.png)
+![image](https://github.com/Raellenalos/Stock-analyis/blob/main/Resources/All%20stocks%202018.png)
 
 
 ## Summary: 
