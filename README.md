@@ -18,9 +18,9 @@ Create a tickerIndex variable and set it equal to zero before iterating over all
 
 **Step 1b:**
 Create three output arrays:
-  tickerVolumes as Long Data type 
-  tickerStartingPrices As Single 
-  tickerEndingPrices As Single 
+  * tickerVolumes as Long Data type 
+  * tickerStartingPrices As Single 
+  * tickerEndingPrices As Single 
   
 **Step 2a:**
 Create a for loop to initialize the tickerVolumes to zero.
@@ -35,7 +35,11 @@ Use the tickerIndex variable as the index.
 ## Results:
 ### DQ 2017 Performance vs   DQ 2018 performance
 
+In 2018 DQ went down 63%
+
 ![image](https://github.com/Raellenalos/Stock-analyis/blob/main/Resources/DQ%20Analysis%202017%20vs%202018.png)
+
+* Original run of the data displaying the run time for 2017 and 2018
 
 ![image](https://github.com/Raellenalos/Stock-analyis/blob/main/Resources/All%20Stocks%202017.png)
 
@@ -48,7 +52,8 @@ Execution time of original script vs Refactored Script:
 
  **What are the advantages and disadvantage of refactoring code?**
  
- Refactoring code can improve the code performance/ run time.
+ * Refactoring code can improve the code performance/ run time.
  
  **How do these Pros and cons apply to refactoring the original VBA script?**
-
+ 
+* Code refactoring can be challenging becuase you have to keep in mind the order of the code and when you change or add a loop or any other function it has to be closed in the right order for the code to run.
