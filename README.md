@@ -22,21 +22,15 @@ Create three output arrays:
   tickerStartingPrices As Single 
   tickerEndingPrices As Single 
   
-
 Step 2a:
-
 Create a for loop to initialize the tickerVolumes to zero.
+
 Step 2b:
-
 Create a for loop that will loop over all the rows in the spreadsheet.
-Step 3a:
 
+Step 3a:
 Inside the for loop in Step 2b, write a script that increases the current tickerVolumes (stock ticker volume) variable and adds the ticker volume for the current stock ticker.
 Use the tickerIndex variable as the index.
-If you’d like a hint on how to increase the current tickerVolumes by using the tickerIndex variable as the index, that’s totally okay. If not, that’s great too. You can always revisit this later if you change your mind.
-
-
-
 
 ## Results:
 ### DQ 2017 Performance vs   DQ 2018 performance
