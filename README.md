@@ -13,33 +13,42 @@ Steve's parents want to know how actively DQ was traded in 2018. They believe th
 
 ## Analysis 
 
-Step 1a:
+**Step 1a:**
 Create a tickerIndex variable and set it equal to zero before iterating over all the rows. 
 
-Step 1b:
+**Step 1b:**
 Create three output arrays:
   tickerVolumes as Long Data type 
   tickerStartingPrices As Single 
   tickerEndingPrices As Single 
   
-Step 2a:
+**Step 2a:**
 Create a for loop to initialize the tickerVolumes to zero.
 
-Step 2b:
+**Step 2b:**
 Create a for loop that will loop over all the rows in the spreadsheet.
 
-Step 3a:
+**Step 3a:**
 Inside the for loop in Step 2b, write a script that increases the current tickerVolumes (stock ticker volume) variable and adds the ticker volume for the current stock ticker.
 Use the tickerIndex variable as the index.
 
 ## Results:
 ### DQ 2017 Performance vs   DQ 2018 performance
 
+![image](https://github.com/Raellenalos/Stock-analyis/blob/main/Resources/DQ%20Analysis%202017%20vs%202018.png)
+
+![image](https://github.com/Raellenalos/Stock-analyis/blob/main/Resources/All%20Stocks%202017.png)
+
+![image](https://github.com/Raellenalos/Stock-analyis/blob/main/Resources/All%20Stocks%202017.png)
+
 
 Execution time of original script vs Refactored Script:
 
 ## Summary: 
- What are the advantages and disadvantage of refactoring code?
+
+ **What are the advantages and disadvantage of refactoring code?**
+ 
  Refactoring code can improve the code performance/ run time.
- How do these Pros and cons apply to refactoring the original VBA script?
+ 
+ **How do these Pros and cons apply to refactoring the original VBA script?**
 
