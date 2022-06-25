@@ -46,8 +46,6 @@ In 2018 DQ went down 63%
 ![image](https://github.com/Raellenalos/Stock-analyis/blob/main/Resources/All%20Stocks%202017.png)
 
 
-Execution time of original script vs Refactored Script:
-
 ## Summary: 
 
  **What are the advantages and disadvantage of refactoring code?**
